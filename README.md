@@ -1,2 +1,0 @@
-# EkaRepo
-Koulussa tehty
